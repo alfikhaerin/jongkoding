@@ -1,0 +1,14 @@
+.container,
+.container-fluid {
+  width: 1200px;
+}
+
+.navbar-brand img {
+  max-height: 75px;
+}
+#gambarAbout {
+  max-height: 450px;
+}
+.thumbnail img {
+  max-height: 450px;
+}
